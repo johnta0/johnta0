@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-
-I develop backend & frontend mainly with TypeScript, though it's not on the Most Used Languages figure.
-
 <!--
 **johnta0/johnta0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
